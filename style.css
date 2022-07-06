@@ -1,15 +1,19 @@
 body{
     font-family: 'Roboto Slab', serif;
     font-family: 'Signika Negative', sans-serif;
+   
+}
+header{
     background-image: url("img/donation5.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+    height: 600px;
 }
 .flood-effect{
     width: 50%;
     text-align: center;
     margin: 0 auto;
-    margin-top: 200px;
+    
     color: white;
     font-size: 25px;
 }
