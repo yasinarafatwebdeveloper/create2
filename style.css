@@ -1,0 +1,33 @@
+body{
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Signika Negative', sans-serif;
+    background-image: url("img/donation5.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.flood-effect{
+    width: 50%;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 200px;
+    color: white;
+    font-size: 25px;
+}
+.flood{
+    margin-top: 60px;
+}
+#relief-button{
+    background: linear-gradient(red,green,yellow);
+    padding: 15px 25px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: white;
+    
+}
+
+
+
+
+
+
+
