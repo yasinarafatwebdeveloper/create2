@@ -9,6 +9,7 @@ header{
     background-size: cover;
     height: 600px;
 }
+
 .flood-effect{
     width: 50%;
     text-align: center;
@@ -27,11 +28,138 @@ header{
     text-decoration: none;
     color: white;
     
+    
+}
+.description-disaster{
+   text-align: center;
+   margin-top: 80px;
+}
+.much-amount{
+    display: flex;
+  
+    
+}
+.heading-tag{
+    padding: 30px 30px;
+    text-align: center;
+    margin: 5px;
+    justify-content: center;
+    margin-left: 40px;
+    background-color:rgba(219, 208, 200, 0.589);
+   font-size: 40px;
+  
+}
+.heading{
+    padding: 30px 30px;
+    text-align: center;
+    margin: 5px;
+    justify-content: center;
+    margin-left: 40px;
+    background-color:rgb(212, 159, 150);
+   font-size: 40px;
+   color: white;
+   border: 3px solid tomato;
+    
 }
 
+#total-amount{
+    text-align: center;
+    margin-top: 40px;
+   
+}
+.amount-measurment{
+    
+    width: 100px;
+    margin-left: 95vh;
+    padding: 10px 30px;
+    background: linear-gradient(red,green,yellow);
+    color: white;
+    margin-top: 30px;
+    border-radius: 10px;
+    border: none;
+}
+.donate-plan{
+    text-align: center;
+    margin-top: 80px;
+}
+.relief-service{
+    
+    width: 33%;
+  
+    background-color: aqua;
+    margin: 10px 15px;
+    padding: 30px 10px;
+}
+.family-service{
+    
+    width: 33%;
+  
+    background-color: fuchsia;
+    margin: 10px 15px;
+    padding: 30px 10px;
 
+}
+.education-service{
+    
+    width: 33%;
+  
+    background-color:darkorange;
+    margin: 10px 15px;
+    padding: 30px 10px;
 
-
-
-
-
+}
+.doner-service{
+    display: flex;
+   
+}
+.font{
+    font-size: 39px;
+}
+.awerness{
+    background: linear-gradient(red,green,yellow);  
+    padding: 15px 15px;
+    color: white;
+    border-radius: 10px;
+    border: none;
+}
+.harmful-life{
+    display: flex;
+    margin-top: 80px;
+}
+.human-service{
+    text-align: center;
+    width: 50%;
+}
+.damage-pic{
+    width: 50%;
+}
+.input-btn{
+    width: 50%;
+    height: 40px;
+    
+}
+.flood-after-effect-step{
+    text-align: center;
+    margin-top: 100px;
+}
+.div-input{
+  
+    padding: 100px;
+    text-align: center;
+    width: 100%;
+    display: inline;
+}
+.form-input{
+    background-color: brown;
+    padding: 40px ;
+}
+.footer-work{
+    background-color: black;
+    height: 400px;
+    margin-top: 100px;
+}
+.end-work{
+    text-align: center;
+    color: white;
+   
+}
