@@ -125,37 +125,52 @@ header{
 .harmful-life{
     display: flex;
     margin-top: 80px;
+    box-sizing: border-box;
 }
 .human-service{
     text-align: center;
     width: 50%;
+    box-shadow: 0px 0px 30px 10px  gray;
 }
 .damage-pic{
     width: 50%;
+    box-shadow: 0px 0px 30px 10px  gray;
+    margin-left: 10px;
+    
 }
 .input-btn{
     width: 50%;
     height: 40px;
+    margin-left: 170px;
     
 }
 .flood-after-effect-step{
     text-align: center;
     margin-top: 100px;
 }
-.div-input{
+.description-box{
   
     padding: 100px;
     text-align: center;
     width: 100%;
     display: inline;
+    margin-left: 50px;
 }
 .form-input{
     background-color: brown;
     padding: 40px ;
+    display: flex;
+    
+}
+.subscribe-button{
+    background-color: blue;
+    padding: 10px 10px;
+    color: white;
+    border: none;
 }
 .footer-work{
     background-color: black;
-    height: 400px;
+    padding: 50px;
     margin-top: 100px;
 }
 .end-work{
